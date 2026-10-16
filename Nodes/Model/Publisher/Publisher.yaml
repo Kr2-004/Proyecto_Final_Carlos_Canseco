@@ -1,0 +1,7 @@
+Name: Publisher
+Id: g=583a2b26967ec38a6e25a352ae467019
+Type: FolderType
+Children:
+- Name: TankLevel
+  Type: BaseDataVariableType
+  DataType: Float

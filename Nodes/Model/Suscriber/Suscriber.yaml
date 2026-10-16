@@ -1,0 +1,7 @@
+Name: Suscriber
+Id: g=5ff71396a1ddfe40f81aabc020534fd6
+Type: FolderType
+Children:
+- Name: TankLevel
+  Type: BaseDataVariableType
+  DataType: Float
